@@ -5,4 +5,3 @@ Contents:
 Least Squares Explanation,
 2.
 3.
-4.
